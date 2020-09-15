@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>document-open.svg</file>
+    <file>document-save-as.svg</file>
+    <file>help-about.svg</file>
+    <file>player-volume.png</file>
+  </qresource>
+</RCC>
