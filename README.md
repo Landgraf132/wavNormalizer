@@ -8,3 +8,6 @@ pip install PyQt5 wavio qtplot
 
 # Скриншоты / Screenshots
 
+![main window](https://github.com/Landgraf132/wavNormalizer/blob/master/img1.png)
+![histograms](https://github.com/Landgraf132/wavNormalizer/blob/master/img2.png)
+![sound wave](https://github.com/Landgraf132/wavNormalizer/blob/master/img3.png)
